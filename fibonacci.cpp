@@ -9,4 +9,6 @@ int main ()
 		var = i+var;
 	}
 		printf ("numero da posicao %i \x82: %i", posicao, var);
+	//asheudausdhuaauhduhasea
+	
 }
